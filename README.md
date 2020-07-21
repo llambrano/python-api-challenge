@@ -3,7 +3,7 @@
 
 ## Background <a name="top"></a>
 
-Using Python requests, APIs, and JSON traversals prove that weather temperatures are higher as cities get closer to the equator [(WeatherPy)](#weartherpy). Identify world's cities with perfect weather for an ideal vacation, and find the closet hotel to the city center using Google Places API [(VacationPy)](#vacationpy). 
+Using Python requests, APIs, and JSON traversals prove that weather temperatures are higher as cities get closer to the equator [(WeatherPy)](#weatherpy). Identify world's cities with perfect weather for an ideal vacation, and find the closet hotel to the city center using Google Places API [(VacationPy)](#vacationpy). 
 
 ## WeatherPy <a name="weatherpy"></a>
 ![](images/equatorsign.png)
